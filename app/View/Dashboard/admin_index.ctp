@@ -4,7 +4,7 @@
 	<div class="row">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
-			<center><p>Métricas</p></center>
+			<center><p>Métricas de Vendas</p></center>
 			<canvas id="myChart"></canvas>
 		</div>
 		<div class="col-md-2"></div>
