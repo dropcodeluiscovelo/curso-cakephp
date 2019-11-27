@@ -1,0 +1,2090 @@
+2019-03-21 18:44:00 Error: [MissingControllerException] Controller class ParceirosController could not be found.
+Exception Attributes: array (
+  'class' => 'ParceirosController',
+  'plugin' => NULL,
+)
+Request URL: /admin/parceiros
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 18:59:46 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\ParceirosController.php, line 16]
+2019-03-21 18:59:46 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /admin/parceiros/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 16, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 16, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 19:01:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:01:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:05:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:05:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:05:46 Error: [MissingActionException] Action ParceirosController::admin_edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'ParceirosController',
+  'action' => 'admin_edit',
+)
+Request URL: /admin/parceiros/edit
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ParceirosController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 19:05:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:05:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:05:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:05:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:06:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:06:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:09:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:09:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:09:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:09:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:09:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:09:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:10:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:10:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:14:04 Error: Fatal Error (1): Call to undefined method AjudaComponent::trataData() in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\ParceirosController.php, line 13]
+2019-03-21 19:14:04 Error: [FatalErrorException] Call to undefined method AjudaComponent::trataData()
+Request URL: /admin/parceiros
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 13, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 13, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 19:14:55 Error: Fatal Error (1): Call to undefined method AjudaComponent::trataData() in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\ParceirosController.php, line 13]
+2019-03-21 19:14:55 Error: [FatalErrorException] Call to undefined method AjudaComponent::trataData()
+Request URL: /admin/parceiros
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 13, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 13, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 19:18:03 Error: [MissingControllerException] Controller class ProdutosController could not be found.
+Exception Attributes: array (
+  'class' => 'ProdutosController',
+  'plugin' => NULL,
+)
+Request URL: /admin/produtos
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:20:08 Error: [MissingActionException] Action ProdutosController::admin_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProdutosController',
+  'action' => 'admin_index',
+)
+Request URL: /admin/produtos
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ProdutosController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 19:30:19 Error: [MissingViewException] View file "Produtos\admin_delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Produtos\\admin_delete.ctp',
+)
+Request URL: /admin/produtos/delete/1
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ProdutosController), Object(CakeRequest))
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-03-21 19:32:33 Error: [MissingControllerException] Controller class TabelasController could not be found.
+Exception Attributes: array (
+  'class' => 'TabelasController',
+  'plugin' => NULL,
+)
+Request URL: /admin/tabelas
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:34:18 Error: [MissingViewException] View file "Tabelas\admin_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Tabelas\\admin_index.ctp',
+)
+Request URL: /admin/tabelas
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TabelasController), Object(CakeRequest))
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-03-21 19:45:46 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'produto_id' cannot be null
+Request URL: /admin/tabelas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `ap...', Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `ap...')
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Model.php(1942): DboSource->create(Object(ProdutoTabela), Array, Array)
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\TabelasController.php(36): Model->save(Array)
+#6 [internal function]: TabelasController->admin_add()
+#7 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(TabelasController), Array)
+#8 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TabelasController), Object(CakeRequest))
+#10 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2019-03-21 19:48:46 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\TabelasController.php, line 55]
+2019-03-21 19:48:46 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /admin/tabelas/produtos/2
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 55)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 55, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 55, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 19:52:38 Error: [MissingActionException] Action TabelasController::admin_valor() could not be found.
+Exception Attributes: array (
+  'controller' => 'TabelasController',
+  'action' => 'admin_valor',
+)
+Request URL: /admin/tabelas/valor/2
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TabelasController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 19:52:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:52:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:54:42 Error: [MissingActionException] Action TabelasController::admin_valor() could not be found.
+Exception Attributes: array (
+  'controller' => 'TabelasController',
+  'action' => 'admin_valor',
+)
+Request URL: /admin/tabelas/valor/1
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TabelasController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 19:57:50 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\TabelasController.php, line 71]
+2019-03-21 19:57:50 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+Request URL: /admin/tabelas/produtos/2
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 71, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 71, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 19:59:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 19:59:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:00:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:00:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:01:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:01:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:02:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:02:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:03:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:03:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:12:26 Error: [MissingActionException] Action UsuariosController::admin_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'admin_index',
+)
+Request URL: /admin/usuarios
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 20:15:06 Error: [MissingViewException] View file "Usuarios\admin_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Usuarios\\admin_index.ctp',
+)
+Request URL: /admin/usuarios
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-03-21 20:18:20 Error: [MissingActionException] Action UsuariosController::admin_edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'admin_edit',
+)
+Request URL: /admin/usuarios/edit/1
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 20:23:56 Error: [MissingActionException] Action UsuariosController::admin_add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'admin_add',
+)
+Request URL: /admin/usuarios/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 20:24:01 Error: [MissingActionException] Action UsuariosController::admin_add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'admin_add',
+)
+Request URL: /admin/usuarios/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 20:37:21 Error: [MissingActionException] Action TabelasController::vendedor_minha_tabela() could not be found.
+Exception Attributes: array (
+  'controller' => 'TabelasController',
+  'action' => 'vendedor_minha_tabela',
+)
+Request URL: /vendedor/tabelas/minha_tabela
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TabelasController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 20:39:57 Error: [MissingActionException] Action TabelasController::vendedor_minha_tabela() could not be found.
+Exception Attributes: array (
+  'controller' => 'TabelasController',
+  'action' => 'vendedor_minha_tabela',
+)
+Request URL: /vendedor/tabelas/minha_tabela
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TabelasController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 20:40:07 Error: [MissingActionException] Action TabelasController::vendedor_minha_tabela() could not be found.
+Exception Attributes: array (
+  'controller' => 'TabelasController',
+  'action' => 'vendedor_minha_tabela',
+)
+Request URL: /vendedor/tabelas/minha_tabela
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TabelasController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 20:46:32 Error: [MissingControllerException] Controller class ClientesController could not be found.
+Exception Attributes: array (
+  'class' => 'ClientesController',
+  'plugin' => NULL,
+)
+Request URL: /vendedor/clientes
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:48:06 Error: [MissingControllerException] Controller class ClientesController could not be found.
+Exception Attributes: array (
+  'class' => 'ClientesController',
+  'plugin' => NULL,
+)
+Request URL: /vendedor/clientes
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 20:57:31 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'usuario_id' cannot be null
+Request URL: /vendedor/clientes/edit/1
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `ap...', Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `ap...')
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Cliente), Array, Array)
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\ClientesController.php(45): Model->save(Array)
+#6 [internal function]: ClientesController->vendedor_edit('1')
+#7 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#8 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#10 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2019-03-21 20:59:58 Error: Fatal Error (1): Call to undefined method AjudaComponent::TratarCnpjCpf() in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\ClientesController.php, line 14]
+2019-03-21 20:59:58 Error: [FatalErrorException] Call to undefined method AjudaComponent::TratarCnpjCpf()
+Request URL: /vendedor/clientes
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 14, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Users\\DROPCO...', 14, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 21:00:54 Error: [MissingControllerException] Controller class VendasController could not be found.
+Exception Attributes: array (
+  'class' => 'VendasController',
+  'plugin' => NULL,
+)
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:01:41 Error: [MissingActionException] Action VendasController::vendedor_add() could not be found.
+Exception Attributes: array (
+  'controller' => 'VendasController',
+  'action' => 'vendedor_add',
+)
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(VendasController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-21 21:19:35 Error: [MissingHelperException] Helper class AjaxHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AjaxHelper',
+  'plugin' => false,
+)
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('Ajax')
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(858): HelperCollection->__isset('Ajax')
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\View\Vendas\vendedor_add.ctp(22): View->__get('Ajax')
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(971): include('C:\\Users\\DROPCO...')
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(933): View->_evaluate('C:\\Users\\DROPCO...', Array)
+#5 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(473): View->_render('C:\\Users\\DROPCO...')
+#6 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#7 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#8 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(VendasController), Object(CakeRequest))
+#9 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2019-03-21 21:20:48 Error: [MissingHelperException] Helper class JavascriptHelper could not be found.
+Exception Attributes: array (
+  'class' => 'JavascriptHelper',
+  'plugin' => false,
+)
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(986): HelperCollection->load('Javascript', Array)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\Helper.php(244): View->loadHelper('Javascript', Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\View\Helper\AjaxHelper.php(501): Helper->__get('Javascript')
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\View\Vendas\vendedor_add.ctp(22): AjaxHelper->observeField('produto', Array)
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(971): include('C:\\Users\\DROPCO...')
+#5 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(933): View->_evaluate('C:\\Users\\DROPCO...', Array)
+#6 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(473): View->_render('C:\\Users\\DROPCO...')
+#7 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#8 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#9 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(VendasController), Object(CakeRequest))
+#10 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2019-03-21 21:22:06 Error: [MissingHelperException] Helper class AjaxHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AjaxHelper',
+  'plugin' => false,
+)
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('Ajax')
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(858): HelperCollection->__isset('Ajax')
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\View\Vendas\vendedor_add.ctp(22): View->__get('Ajax')
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(971): include('C:\\Users\\DROPCO...')
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(933): View->_evaluate('C:\\Users\\DROPCO...', Array)
+#5 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(473): View->_render('C:\\Users\\DROPCO...')
+#6 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#7 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#8 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(VendasController), Object(CakeRequest))
+#9 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2019-03-21 21:22:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:22:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:24:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:24:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:25:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:25:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:27:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:27:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:27:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:27:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:27:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:27:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:30:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:30:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:30:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:30:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:30:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:30:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-21 21:47:40 Error: Fatal Error (4): syntax error, unexpected '"produto_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\VendasController.php, line 44]
+2019-03-21 21:47:40 Error: [FatalErrorException] syntax error, unexpected '"produto_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 44, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 44, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 21:47:41 Error: Fatal Error (4): syntax error, unexpected '"produto_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\VendasController.php, line 44]
+2019-03-21 21:47:41 Error: [FatalErrorException] syntax error, unexpected '"produto_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 44, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 44, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 21:47:59 Error: Fatal Error (1): Call to a member function save() on null in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\VendasController.php, line 37]
+2019-03-21 21:47:59 Error: [FatalErrorException] Call to a member function save() on null
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 37)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 37, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 37, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 21:49:02 Error: Fatal Error (1): Call to a member function save() on null in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\VendasController.php, line 36]
+2019-03-21 21:49:02 Error: [FatalErrorException] Call to a member function save() on null
+Request URL: /vendedor/vendas/add
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 36, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 36, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-21 21:50:27 Error: [MissingActionException] Action VendasController::vendedor_detalhes() could not be found.
+Exception Attributes: array (
+  'controller' => 'VendasController',
+  'action' => 'vendedor_detalhes',
+)
+Request URL: /vendedor/vendas/detalhes/1
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(VendasController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-22 12:42:39 Error: [MissingViewException] View file "Vendas\vendedor_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Vendas\\vendedor_index.ctp',
+)
+Request URL: /vendedor/vendas
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(VendasController), Object(CakeRequest))
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-03-22 13:33:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 13:33:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 13:33:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 13:33:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 13:35:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 13:35:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 13:35:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 13:35:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 13:45:29 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'aplicacao.produto_venda' doesn't exist
+Request URL: /vendedor/dashboard
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('select count(v....', Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(715): DboSource->execute('select count(v....', Array, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(641): DboSource->fetchAll('select count(v....', false)
+#4 [internal function]: DboSource->query('select count(v....', false)
+#5 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Model.php(3489): call_user_func_array(Array, Array)
+#6 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\DashboardController.php(18): Model->query('select count(v....')
+#7 [internal function]: DashboardController->vendedor_index()
+#8 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(DashboardController), Array)
+#9 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#11 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2019-03-22 13:45:41 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pv.produto_venda' in 'on clause'
+Request URL: /vendedor/dashboard
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('select count(v....', Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(715): DboSource->execute('select count(v....', Array, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Datasource\DboSource.php(641): DboSource->fetchAll('select count(v....', false)
+#4 [internal function]: DboSource->query('select count(v....', false)
+#5 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Model\Model.php(3489): call_user_func_array(Array, Array)
+#6 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\DashboardController.php(18): Model->query('select count(v....')
+#7 [internal function]: DashboardController->vendedor_index()
+#8 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(DashboardController), Array)
+#9 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardController), Object(CakeRequest))
+#11 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2019-03-22 13:51:13 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\DashboardController.php, line 30]
+2019-03-22 13:51:13 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /vendedor/dashboard
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 30)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 30, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 30, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-22 14:18:38 Error: Fatal Error (4): syntax error, unexpected '"action"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\View\Produtos\admin_index.ctp, line 28]
+2019-03-22 14:18:38 Error: [FatalErrorException] syntax error, unexpected '"action"' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /admin/produtos
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 28)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 28, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 28, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-22 14:19:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:19:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:19:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:19:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:19:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:19:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:20:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:20:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:21:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:21:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:25:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:25:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:25:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:25:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:26:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:26:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:26:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:26:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:27:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:27:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:27:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:27:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 14:36:33 Error: Fatal Error (4): syntax error, unexpected '"confirm"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\View\Tabelas\admin_index.ctp, line 51]
+2019-03-22 14:36:33 Error: [FatalErrorException] syntax error, unexpected '"confirm"' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /admin/tabelas
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 51, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 51, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-22 14:43:19 Error: [MissingViewException] View file "Tabelas\admin_delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Tabelas\\admin_delete.ctp',
+)
+Request URL: /admin/tabelas/delete/2
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TabelasController), Object(CakeRequest))
+#4 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-03-22 14:45:56 Error: Fatal Error (1): Call to a member function find() on null in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\TabelasController.php, line 102]
+2019-03-22 14:45:56 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /admin/tabelas/delete/2
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 102)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 102, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 102, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-22 14:46:22 Error: Fatal Error (1): Call to a member function find() on null in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\TabelasController.php, line 102]
+2019-03-22 14:46:22 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /admin/tabelas/delete/2
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 102)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 102, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 102, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-22 14:54:43 Error: [MissingActionException] Action UsuariosController::admin_delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsuariosController',
+  'action' => 'admin_delete',
+)
+Request URL: /admin/usuarios/delete/1
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-03-22 14:57:43 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\UsuariosController.php, line 82]
+2019-03-22 14:57:44 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /admin/usuarios/delete/1
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 82)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 82, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Users\\DROPCO...', 82, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-22 14:57:53 Error: Fatal Error (1): Call to a member function find() on null in [C:\Users\DROPCODE\Desktop\curso-cakephp\root\app\Controller\UsuariosController.php, line 80]
+2019-03-22 14:57:53 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /admin/usuarios/delete/1
+Stack Trace:
+#0 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 80)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 80, Array)
+#2 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\Users\\DROPCO...', 80, Array)
+#3 C:\Users\DROPCODE\Desktop\curso-cakephp\root\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-03-22 11:53:34 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/var/lib/mysql/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Datasource/DboSource.php(278): Mysql->connect()
+#1 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Model.php(3659): ConnectionManager::getDataSource('default')
+#3 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Model.php(1162): Model->setDataSource('default')
+#4 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Model.php(3686): Model->setSource('usuarios')
+#5 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Model.php(1394): Model->getDataSource()
+#6 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#7 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/Helper/FormHelper.php(480): FormHelper->_introspectModel('Usuario', 'fields')
+#8 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/View/Usuarios/login.ctp(12): FormHelper->create('Usuario', Array)
+#9 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/View.php(971): include('/home/storage/1...')
+#10 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/View.php(933): View->_evaluate('/home/storage/1...', Array)
+#11 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/View.php(473): View->_render('/home/storage/1...')
+#12 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#13 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#14 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#15 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2019-03-22 11:55:49 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Can\'t connect to local MySQL server through socket \'/var/lib/mysql/mysql.sock\' (2)',
+  'enabled' => true,
+)
+Request URL: /
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Datasource/DboSource.php(278): Mysql->connect()
+#1 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Model.php(3659): ConnectionManager::getDataSource('default')
+#3 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Model.php(1162): Model->setDataSource('default')
+#4 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Model.php(3686): Model->setSource('usuarios')
+#5 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Model/Model.php(1394): Model->getDataSource()
+#6 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#7 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/Helper/FormHelper.php(480): FormHelper->_introspectModel('Usuario', 'fields')
+#8 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/View/Usuarios/login.ctp(12): FormHelper->create('Usuario', Array)
+#9 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/View.php(971): include('/home/storage/1...')
+#10 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/View.php(933): View->_evaluate('/home/storage/1...', Array)
+#11 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/View/View.php(473): View->_render('/home/storage/1...')
+#12 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#13 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#14 /home/storage/1/97/be/wsd/public_html/curso_cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsuariosController), Object(CakeRequest))
+#15 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2019-03-22 12:00:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-22 12:00:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-25 11:08:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-26 09:55:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-26 09:55:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-26 16:44:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-26 16:44:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 11:26:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 11:26:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 13:54:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 13:54:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 14:29:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 14:29:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 15:02:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 15:02:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 15:03:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 15:03:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 15:03:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 15:03:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 17:05:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-27 17:05:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-28 08:12:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-28 08:12:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-29 16:07:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-29 16:07:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 09:05:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 09:05:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 10:43:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 10:43:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 15:09:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 15:09:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 15:09:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 15:09:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 15:14:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 15:14:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 15:27:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-01 15:27:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-02 11:03:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-02 11:03:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-02 11:18:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-02 11:18:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-02 11:18:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-02 11:18:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-02 14:32:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-03 08:18:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-03 08:18:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-03 15:56:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-03 15:56:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-04 10:56:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-04 10:56:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-05 10:53:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-05 10:53:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-05 13:40:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-05 13:40:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-05 14:25:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-05 14:25:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-08 11:47:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-08 11:47:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-08 15:40:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-08 15:40:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-08 15:46:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-08 15:46:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 08:30:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 08:30:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 09:44:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 09:44:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 11:36:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 11:36:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 17:13:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 17:13:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 17:22:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-04-10 17:22:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/bootstrap.bundle.min.js.map
+Stack Trace:
+#0 /home/storage/1/97/be/wsd/public_html/curso_cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
